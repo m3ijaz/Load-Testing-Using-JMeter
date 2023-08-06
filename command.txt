@@ -1,0 +1,1 @@
+jmeter -n -t "E:\SQA\Jmeter\Assignment\Evaly.jmx" -l "E:\SQA\Jmeter\Assignment\JMeterReport.csv" -e -o "E:\SQA\Jmeter\Assignment\Report"
